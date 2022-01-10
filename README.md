@@ -1,2 +1,2 @@
-# nibledge.github.com
+# nibledge.github.io
 This Website is for Coding
